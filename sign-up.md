@@ -3,7 +3,8 @@ Sign up list for the Kali Linux Tools Research Project
 
 # Please write your name beside the tool you want to do a presentation for:
 
-    ace-voip -
+# Information Gathering
+    ace-voip - Julian
     Amap -
     APT2 -
     arp-scan -
@@ -69,4 +70,4 @@ Sign up list for the Kali Linux Tools Research Project
     URLCrazy -
     Wireshark -
     WOL-E -
-    Xplico - 
+    Xplico -
