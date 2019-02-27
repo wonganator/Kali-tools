@@ -46,7 +46,7 @@ Sign up list for the Kali Linux Tools Research Project
     Miranda -
     nbtscan-unixwiz -
     Nikto -
-    Nmap -
+    Nmap(CLI)/Zenmap(GUI) - Kevin
     ntop -
     OSRFramework -
     p0f -
